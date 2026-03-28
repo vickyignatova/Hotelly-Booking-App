@@ -29,7 +29,6 @@ Adobe XD
 
 To design a modern and user-friendly hotel booking app that goes beyond standard photos and reviews by offering a more realistic and interactive preview experience.
 
-## Type of Project / Course
+## Notes
 
-UI Advanced Course
-Softuni Creative
+This project was created as a final project for the UI Advanced Course at SoftUni Creative.
